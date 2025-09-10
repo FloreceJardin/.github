@@ -1,5 +1,9 @@
 # 🌱 FloreceJardin 🌈  
 
+![Vista Previa](https://i.imgur.com/CJ4JQQ5.jpeg)  
+
+
+
 ![Visitantes: 20K+](https://img.shields.io/badge/Visitantes-20K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
 
 **🌟 ¡Bienvenidos, Soñadores Creativos!**  
