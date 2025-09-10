@@ -31,8 +31,11 @@ Encender la creatividad en todos, ofreciendo herramientas educativas para diseñ
 
 Aquí puedes ver más de cerca el proyecto.
 -
-[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/FloreceJardin/RobloxGrowGarden)  
+[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/FloreceJardin/.github)  
+-
 
+[![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/FloreceJardin/RobloxGrowGarden)  
+-
 ---
 
 ## 🔍 Palabras Clave SEO  
